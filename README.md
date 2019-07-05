@@ -1,7 +1,7 @@
 # event_management_project
 ## BY ISHANT GUPTA
 
-### tech use html css bootstrap js jquery
+### project based on html css bootstrap js jquery
 
 you can manage your events in this website.. 
 
