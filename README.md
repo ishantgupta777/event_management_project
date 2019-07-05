@@ -1,8 +1,5 @@
 # event_management_project
-
-
-# if wanna see live go to 
-# qstp.epizy.com
+# BY ISHANT GUPTA
 
 # tech use html css bootstrap js jquery
 
