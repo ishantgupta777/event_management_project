@@ -4,10 +4,9 @@
 # if wanna see live go to 
 # qstp.epizy.com
 
+# tech use html css bootstrap js jquery
 
 you can manage your events in this website.. 
-
-tech use html css bootstrap js jquery
 
 first card is only for demo,, delete it and start adding new events...
 
